@@ -1,2 +1,1 @@
-# downloadWebsites.script
-WIP
+does not work
